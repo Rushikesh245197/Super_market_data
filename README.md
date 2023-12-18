@@ -1,3 +1,7 @@
 # Super_market_data
 
-Auther - Rushi sable
+Author - Rushi sable
+
+Aim = To develop a system of supply chain management 
+
+
